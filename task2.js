@@ -12,7 +12,6 @@ const cart1 = [
     {name: "Milk", price: 10, quantity: 2}
 ];
 console.log(SumTotal(cart1));
-
 const cart2 = [
     {name: "Sushi", price: 20, quantity: 4},
     {name: "Burger Max", price: 30, quantity: 1}
